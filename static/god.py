@@ -4,12 +4,12 @@ from browser import document
 
 num = 1
 atari = int(100)
-    while True :
-        random_num = random.randint(1,8192) 
-        if  atari == random_num :
-            break
-        else :
-            num += 1
+while True :
+    random_num = random.randint(1,8192) 
+    if  atari == random_num : 
+        break
+    else :
+        num += 1
 
 def god_kekka(ev):
 
