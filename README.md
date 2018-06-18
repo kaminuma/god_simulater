@@ -13,5 +13,5 @@
   実際にwebページとして公開する際は一部修正する必要があります。
   htmlコードにcss周りの記載とファイルは付属させていません。
   
-  eExample of WEB application page created with this code
+  Example of WEB application page created with this code
   http://www.love-testnet.work/
