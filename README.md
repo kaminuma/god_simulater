@@ -2,7 +2,7 @@
   8192 probability application using brython  
   
   Order　CL  
-  git clone https://github.com/kaminuma/simulater.git  
+  git clone https://github.com/kaminuma/god_simulater.git  
   cd god_simulater  
   python app.py  
   access http://localhost:5000/  
