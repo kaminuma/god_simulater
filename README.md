@@ -7,12 +7,14 @@
   python app.py  
   access http://localhost:5000/  
   
+  If you do it in an anaconda environment, 
+  it will work when you run the "run.ipynb" file.
+  
   ＊Caution＊  
   It is under development
  
   実際にwebページとして公開する際は一部修正する必要があります。
   htmlコードにcss周りの記載とファイルは付属させていません。
   
-  Example of WEB application page created with this code
-  http://www.love-testnet.work/
-※now this site is done
+  *********
+  Currently, it is updated from time to time by programming learning.
