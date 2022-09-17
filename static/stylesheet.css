@@ -1,0 +1,15 @@
+button {
+    font-size: 200%;
+  }
+  
+  .outer{
+    display: table;
+    width: 100%;
+  }
+  .inner{
+    display: table-cell;
+    vertical-align: middle;
+  }
+  h2 {
+    color : red
+  }
