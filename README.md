@@ -14,7 +14,10 @@
   It is under development
  
   実際にwebページとして公開する際は一部修正する必要があります。
-  htmlコードにcss周りの記載とファイルは付属させていません。
+  付属しているCSSは完全に機能しないことがあります。
+  
+  サンプルページ
+  http://150.95.129.31:5000/
   
   *********
   Currently, it is updated from time to time by programming learning.
