@@ -16,8 +16,9 @@
   実際にwebページとして公開する際は一部修正する必要があります。
   付属しているCSSは完全に機能しないことがあります。
   
-  サンプルページ
+  サンプルページ　2022/9/17　test web公開
   http://150.95.129.31:5000/
+  
   
   *********
   Currently, it is updated from time to time by programming learning.
