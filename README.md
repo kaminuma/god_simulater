@@ -18,7 +18,7 @@
   
   サンプルページ　
   2022/9/17　test web公開/VPS<br>
-  9/22 pythonanywhereに移転
+  9/22 pythonanywhereに移転<br>
   https://kaminuma.pythonanywhere.com/
   
   
