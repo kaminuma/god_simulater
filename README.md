@@ -16,8 +16,10 @@
   実際にwebページとして公開する際は一部修正する必要があります。
   付属しているCSSは完全に機能しないことがあります。
   
-  サンプルページ　2022/9/17　test web公開<br>
-  http://150.95.129.31:5000/
+  サンプルページ　
+  2022/9/17　test web公開/VPS<br>
+  9/22 pythonanywhereに移転
+  https://kaminuma.pythonanywhere.com/
   
   
   *********
